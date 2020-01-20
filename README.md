@@ -5,7 +5,7 @@ Guidelines on how bugs should be reported.
 ## Intro
 
 The higher quality the bug report, the more chance the defect will be identified, fixed and re-tested.
-Giving stakeholders - such as developers, testers and account managers - as much information as possible means that they can work more efficiently at identifying and fixing the bug whilst considering anything else any fix might impact.
+Giving stakeholders - such as developers, testers and account managers - as much information as possible means that they can work more effectively at identifying and fixing the bug whilst considering anything else any fix might impact.
 
 ## The Anatomy of a bug
 
