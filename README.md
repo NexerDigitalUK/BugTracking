@@ -23,3 +23,15 @@ Giving stakeholders - such as developers, testers and account managers - as much
 - Please mention if you've checked it in other browsers as well
 - Please include *full error messages* and *screenshots* if possible
 - Try to pinpoint it as much as possible
+
+## Ideas for additional content
+
+- Elaborate on our process and how tickets work within Sigma and the process they go through
+- Info on sprints and account processes regarding tickets and testing
+- Info on how to use Jira 
+    - The different views
+    - Adding tickets
+    - Who to assign
+    - Storypoints
+    - Columns on the board
+    - Comments in the ticket
