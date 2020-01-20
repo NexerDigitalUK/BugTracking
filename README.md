@@ -20,6 +20,7 @@ Giving stakeholders - such as developers, testers and account managers - as much
 - Advice on how to replicate the bug
 - What is happening and what did you expect to happen
 - What browser and version you are using (Please mention if you've checked it in other browsers as well)
+- What mobile device you are using, if applicable
 
 ## Ideas for additional content
 
